@@ -10,3 +10,29 @@ const kBottomContainerColor = Color(0xFFEB1555);
 const kBottomContainerColorTransparent = Color(0x29EB1555);
 const double kMinHeight = 120;
 const double kMaxHeight = 220;
+const kBottomText = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 25,
+  // color: Colors.white,
+);
+const kTitleTextStyle = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 50,
+  // color: Colors.white,
+);
+const kGreenText = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 22,
+  color: Color(0xFF24D876),
+);
+
+const kBmiTextStyle = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 100,
+  // color: Colors.white,
+);
+const kAnswer = TextStyle(
+//  fontWeight: FontWeight.bold,
+  fontSize: 22,
+  // color: Colors.white,
+);
